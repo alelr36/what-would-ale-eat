@@ -1,4 +1,12 @@
-export const Card = ({ header, body, footer }) => {
+import type { ReactNode } from "react";
+
+type Props = {
+  header: ReactNode;
+  body: ReactNode;
+  footer: ReactNode;
+};
+
+export const Card = ({ header, body, footer }: Props) => {
   return (
     <div className="h-[400px] flex flex-col justify-between border-2 border-blue-400 rounded-lg shadow-2xl">
       <div className="border-b-blue-400 border-b flex-1 text-2xl font-extrabold flex items-center justify-center">
