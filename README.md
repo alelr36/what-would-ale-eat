@@ -1,12 +1,21 @@
 # Where to eat
 
-## To run the project
+## To run the project in DEV mode
 
 1. git clone this repo `git clone https://github.com/alelr36/what-would-ale-eat.git`
 2. cd into repo folder `cd what-would-ale-eat`
 3. Install dependencies `npm i`
 4. Run project `npm run dev`
 5. Visit the url displayed in the terminal
+
+## To build and run in PROD mode
+
+1. git clone this repo `git clone https://github.com/alelr36/what-would-ale-eat.git`
+2. cd into repo folder `cd what-would-ale-eat`
+3. Install dependencies `npm i`
+4. Run build command `npm run build`
+5. Run preview command `npm run preview`
+6. Visit localhost:8000
 
 ---
 
