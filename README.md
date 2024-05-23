@@ -48,3 +48,9 @@ List of features I would have liked to implement:
   - Inform the user whether the truck is working at the moment or not
 - Allow user to select AND / OR criteria when searching for several terms
   - At the moment, we use only AND, but OR can be a usecase very often,
+ 
+---
+
+https://github.com/alelr36/what-would-ale-eat/assets/2363036/358473d9-6217-4417-b36d-6b1ac71984b5
+
+
